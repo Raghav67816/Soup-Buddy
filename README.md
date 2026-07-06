@@ -15,7 +15,7 @@ The world is ending! Do you want to spend your last hours in sadness, despair, o
 ESP32 starts an AP and gives users option to select the WiFi to connect to. ESP32 then connects to a MQTT server.
 
 
-![Uploading WhatsApp Image 2026-07-07 at 06.22.42 (1).jpeg…]()
+<img width="4080" height="3072" alt="WhatsApp Image 2026-07-07 at 06 22 42 (1)" src="https://github.com/user-attachments/assets/5cf146e2-b942-4fac-bac1-b84369aebd8d" />
 
+<img width="963" height="1280" alt="WhatsApp Image 2026-07-07 at 06 22 33" src="https://github.com/user-attachments/assets/9bb5b0da-85f8-4867-87b5-0f132e69edd6" />
 
-![Uploading WhatsApp Image 2026-07-07 at 06.22.42.jpeg…]()
